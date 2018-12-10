@@ -1,0 +1,9 @@
+{
+  "name": "Hao-APIDOC",
+  "version": "0.1.0",
+  "description": "Hao Python ApiDoc",
+  "title": "Hao ApiDoc",
+  "header": {
+        "title": "README"
+  }
+}
